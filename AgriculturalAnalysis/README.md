@@ -1,37 +1,39 @@
-Medium Post: Uncovering Agricultural Trends and Opportunities with FAOSTAT Data
-Introduction
-Goal of the Analysis:
+### Medium Post 
+Uncovering Agricultural Trends and Opportunities with FAOSTAT Data
+
+### Introduction
+#### Goal of the Analysis:
 The primary objective of this analysis is to identify trends and opportunities within the agricultural sector across various countries and crops using the FAOSTAT dataset.
 By examining key agricultural metrics such as area harvested, yield, and production volumes, we aim to uncover potential markets for agribusiness expansion, providing strategic insights for international growth.
  
-FAOSTAT Dataset:
+### FAOSTAT Dataset
 FAOSTAT, maintained by the Food and Agriculture Organization (FAO) of the United Nations, offers comprehensive agricultural data from numerous countries.
 This dataset includes a wide array of metrics for various crops and livestock products, making it an invaluable resource for analysing agricultural trends globally.
  
-Data Acquisition and Preparation
-Data Collection:
+### Data Acquisition and Preparation
+#### Data Collection:
 The data was sourced directly from the FAOSTAT database, focusing on relevant agricultural metrics. This dataset encompasses information from different countries and years, offering a broad view of agricultural productivity and trends.
  
-Data Cleaning and Preparation:
+### Data Cleaning and Preparation
 The dataset required several preprocessing steps to ensure its quality and usability.
 These steps included handling missing values, filtering relevant columns, and transforming data types. Key metrics such as area harvested, yield, and production volumes were extracted and cleaned for a more focused analysis.
  
-Exploratory Data Analysis
+### Exploratory Data Analysis
 Key Metrics analysed:
 The analysis centered on three primary metrics:
 Area Harvested: The total area used for cultivating a particular crop.
 Yield: The amount of crop produced per unit area.
 Production Volumes: The total quantity of crop produced.
  
-Initial Visualizations and Descriptive Statistics:
+### Initial Visualizations and Descriptive Statistics:
 To understand the data better, we conducted an exploratory data analysis (EDA), which included generating summary statistics and visualizing the distribution of key metrics.
  For instance, we examined the average yield of wheat across different countries to identify significant variations.
  
-Trend Analysis
+## Trend Analysis
 Methods Used to Analyse Trends:
 Trend analysis was performed to identify growth patterns over time. We used statistical methods to analyse changes in yield, area harvested, and production volumes across different countries and crops.
  
-Key Findings:
+### Key Findings
 The analysis revealed several significant trends:
 Consistent Growth in Crop Production: Certain countries showed a steady increase in production volumes for key crops, indicating robust agricultural practices and favourable conditions.
 Improving Yields: Countries like Afghanistan demonstrated significant improvements in crop yields, particularly for almonds and wheat.
